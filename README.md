@@ -2,7 +2,7 @@
 
 This is a unique and quirky music player built using HTML, CSS, and JavaScript. It features a simple interface to play, pause, and navigate through a selection of songs with custom progress tracking and display of current and total song durations.
 
-![Screenshott](screenshot5000.png)
+![Screenshot](screenshot5000.png)
 
 ## Features
 
